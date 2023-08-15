@@ -28,13 +28,19 @@ Welcome to GrapEase, a platform that empowers you to create your personalized Re
 
 4. For any questions or issues, please reach out to our support team at support@grapease.com.
 
-## License
+## Setting Up the Starter Kit: A CLI Guide
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Once you've downloaded and unzipped the Grafbase Starter Kit package, the setup process is a breeze. Follow these steps to get your project up and running:
 
-## Acknowledgments
+1. **Download and Unzip:** Start by downloading the Grafbase Starter Kit package from the provided link. Once downloaded, unzip the package to your desired location.
 
-We would like to express our gratitude to the React and Grafbase communities for their invaluable contributions and support.
+2. **Navigate to Project Directory:** Open your terminal or command prompt and navigate to the directory where you've unzipped the Grafbase Starter Kit.
+
+3. **Install Dependencies:** Run the following command to install all the required dependencies:
+   
+   ```bash
+   npm install
+
 
 ---
 
