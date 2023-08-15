@@ -1,5 +1,3 @@
-# GrapEase
-
 # GrapEase: Customize Your React Grafbase Starter
 
 Welcome to GrapEase, a platform that empowers you to create your personalized React Grafbase starter with ease. Tailor your starter pack by selecting your preferred tools, language, and UI library, and enjoy a seamless development experience.
