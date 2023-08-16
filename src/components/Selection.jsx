@@ -113,7 +113,7 @@ const Selection = () => {
   </div>
   <div className="buttons">
     <button className="generate" id="UILibrary" onClick={(e) => {downloadlink()}}>Generate</button>
-    <a href={`starters/${links}.zip`} className="downloadlink" id="generatelink" download={links}>Download</a>
+    <a href={`./starters/${links}.zip`} className="downloadlink" id="generatelink" download={links}>Download</a>
   </div>
   </div>
   );
