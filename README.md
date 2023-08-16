@@ -9,7 +9,7 @@ Welcome to GrapEase, a platform that empowers you to create your personalized Re
 2. Follow these simple steps to customize your React Grafbase starter:
 
    ### Step 1: Select React Tools
-   Choose between Vite and Create React App for your project.
+   Choose Vite for your project.
 
    ### Step 2: Choose a Language
    Select either TypeScript or JavaScript as your language.
@@ -21,7 +21,7 @@ Welcome to GrapEase, a platform that empowers you to create your personalized Re
    Click the "Generate" button to customize your starter pack based on the chosen options. Your download will begin automatically.
 
 3. **Note:** By default, the following options are pre-selected:
-   - React Tool: Create React App
+   - React Tool: Vite
    - Language: TypeScript
    - UI Library: Build it on your own - Scratch
    If these selections match your preferences, you can directly click the "Download" button to get your customized starter.
