@@ -5,7 +5,7 @@ const StepGuide = () => {
     <div className="step-guide">
       <div className="step">
         <h2>Step 1: Select React Tools</h2>
-        <p>Choose between Vite and Create React App for your project.</p>
+        <p>Choose Vite for your project.</p>
       </div>
       <div className="step">
         <h2>Step 2: Choose a Language</h2>

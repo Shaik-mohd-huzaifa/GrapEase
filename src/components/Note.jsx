@@ -5,7 +5,7 @@ const NoteComponent = () => {
       <p>
         By default, the following options are selected:
         <br />
-        ◾ React Tool: Create React App
+        ◾ React Tool: Vite
         <br />
         ◾ Language: TypeScript
         <br />

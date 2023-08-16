@@ -1,13 +1,14 @@
 import { useState } from "react";
+// import resoursepath from "./../../resource/starters"
 
 {/* prettier-ignore */}
 
 const Selection = () => {
     // States for User Customization
     const [language, setlanguage] = useState("Javascript");
-    const [tools, settools] = useState("Create React App");
+    const [tools, settools] = useState("Vite");
     const [uilibrary, setUIlibrary] = useState("MaterialUI");
-    const [links, setlink] = useState('Typescript-Create-React-App-Scratch');
+    const [links, setlink] = useState('Typescript-Vite-Scratch');
     // Function to add selected class 
   function change(classList) {
     let cardComps = document.querySelectorAll(`.${classList}`);
@@ -49,12 +50,7 @@ const Selection = () => {
         </div>  
         <div className="options">
   <div className="opt--container" id="ReactPlatform">
-    <button className="option-tools-box opt--card selected" id="CRA" onClick={(e) => addtools(e)} value="Create-React-App">
-      <p className="radio"><span></span></p>
-        <img src="src/assets/react.svg" alt="React Image" />
-      <p className="opt--name">Create React App</p>
-    </button>
-    <button className="option-tools-box opt--card" id="Vite" onClick={(e) => addtools(e)} value="Vite">
+    <button className="option-tools-box opt--card selected" id="Vite" onClick={(e) => addtools(e)} value="Vite">
       <p className="radio"><span></span></p>
         <img src="src/assets/vitejs.svg" alt="Vite Image" />
       <p className="opt--name">Vite</p>
@@ -89,7 +85,7 @@ const Selection = () => {
       value="Scratch"
     >
       <p className="radio"><span></span></p>
-        <img src="src/assets/material-ui.svg" alt="Scratch Image" />
+        <img src="src/assets/bootstrap.svg" alt="Scratch Image" />
       <p className="opt--name">Scratch</p>
     </button>
     <button
@@ -117,7 +113,7 @@ const Selection = () => {
   </div>
   <div className="buttons">
     <button className="generate" id="UILibrary" onClick={(e) => {downloadlink()}}>Generate</button>
-    <a href={`public/starter/${links}`} className="downloadlink" id="generatelink" download="true">Download</a>
+    <a href={`./../../resource/starters/${links}.zip`} className="downloadlink" id="generatelink" download={links}>Download</a>
   </div>
   </div>
   );
