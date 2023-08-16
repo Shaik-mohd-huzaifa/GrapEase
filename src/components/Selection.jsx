@@ -52,7 +52,7 @@ const Selection = () => {
   <div className="opt--container" id="ReactPlatform">
     <button className="option-tools-box opt--card selected" id="Vite" onClick={(e) => addtools(e)} value="Vite">
       <p className="radio"><span></span></p>
-        <img src="../../src/assets/vitejs.svg" alt="Vite Image" />
+        <img src="vitejs.svg" alt="Vite Image" />
       <p className="opt--name">Vite</p>
     </button>
   </div>
@@ -64,7 +64,7 @@ const Selection = () => {
       value="TypeScript"
     >
         <p className="radio"><span></span></p>
-        <img src="../../src/assets/typescript.svg" alt="TypeScript Image" />
+        <img src="typescript.svg" alt="TypeScript Image" />
       <p className="opt--name">TypeScript</p>
     </button>
     <button
@@ -73,7 +73,7 @@ const Selection = () => {
       onClick={(e) => addlanguage(e)}
       value="Javascript">
       <p className="radio"><span></span></p>
-        <img src="../../src/assets/javascript.svg" alt="Javascript Image" />
+        <img src="javascript.svg" alt="Javascript Image" />
       <p className="opt--name">Javascript</p>
     </button>
   </div> 
@@ -85,7 +85,7 @@ const Selection = () => {
       value="Scratch"
     >
       <p className="radio"><span></span></p>
-        <img src="../../src/assets/bootstrap.svg" alt="Scratch Image" />
+        <img src="bootstrap.svg" alt="Scratch Image" />
       <p className="opt--name">Scratch</p>
     </button>
     <button
@@ -95,7 +95,7 @@ const Selection = () => {
       value="Material-UI"
     >
       <p className="radio"><span></span></p>
-        <img src="../../src/assets/material-ui.svg" alt="Material UI Image" />
+        <img src="material-ui.svg" alt="Material UI Image" />
       <p className="opt--name">Material UI</p>
     </button>
     <button
@@ -105,7 +105,7 @@ const Selection = () => {
       value="Ant-Design"
     >
       <p className="radio"><span></span></p>
-        <img src="./../../src/assets/ant-design.svg" alt="Ant Design Image" />
+        <img src="./ant-design.svg" alt="Ant Design Image" />
       <p className="opt--name">Ant Design</p>
     </button>
   </div>
