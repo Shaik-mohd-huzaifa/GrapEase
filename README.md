@@ -1,10 +1,10 @@
-# GrapEase: Customize Your React Grafbase Starter
+# GraphEase: Customize Your React Grafbase Starter
 
-Welcome to GrapEase, a platform that empowers you to create your personalized React Grafbase starter with ease. Tailor your starter pack by selecting your preferred tools, language, and UI library, and enjoy a seamless development experience.
+Welcome to GraphEase, a platform that empowers you to create your personalized React Grafbase starter with ease. Tailor your starter pack by selecting your preferred tools, language, and UI library, and enjoy a seamless development experience.
 
 ## Getting Started
 
-1. Visit the GrapEase website at [https://www.grapease.com](https://www.grapease.com).
+1. Visit the GraphEase website at [https://www.GraphEase.com](https://www.GraphEase.com).
 
 2. Follow these simple steps to customize your React Grafbase starter:
 
@@ -26,7 +26,7 @@ Welcome to GrapEase, a platform that empowers you to create your personalized Re
    - UI Library: Build it on your own - Scratch
    If these selections match your preferences, you can directly click the "Download" button to get your customized starter.
 
-4. For any questions or issues, please reach out to our support team at support@grapease.com.
+4. For any questions or issues, please reach out to our support team at support@GraphEase.com.
 
 ## Setting Up the Starter Kit: A CLI Guide
 
@@ -44,4 +44,4 @@ Once you've downloaded and unzipped the Grafbase Starter Kit package, the setup 
 
 ---
 
-**[Visit GrapEase](https://www.grapease.com)** | Contact: support@grapease.com
+**[Visit GraphEase](https://www.GraphEase.com)** | Contact: support@GraphEase.com
