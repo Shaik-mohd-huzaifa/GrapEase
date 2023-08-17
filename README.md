@@ -4,7 +4,7 @@ Welcome to GraphEase, a platform that empowers you to create your personalized R
 
 ## Getting Started
 
-1. Visit the GraphEase website at [[https://www.GraphEase.com](https://melodic-mousse-41b764.netlify.app/)](https://www.GraphEase.com).
+1. Visit the GraphEase website at [[https://www.GraphEase.com](https://graphaese.netlify.app/)](https://www.GraphEase.com).
 
 2. Follow these simple steps to customize your React Grafbase starter:
 
@@ -44,4 +44,4 @@ Once you've downloaded and unzipped the Grafbase Starter Kit package, the setup 
 
 ---
 
-**[Visit GraphEase](https://www.GraphEase.com)** | Contact: support@GraphEase.com
+**[Visit GraphEase](https://graphaese.netlify.app/)**
